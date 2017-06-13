@@ -1,0 +1,24 @@
+C:\Documents and Settings\Administrator\桌面\C#\WpfWb\WpfWb\bin\Debug\WpfWb.exe
+C:\Documents and Settings\Administrator\桌面\C#\WpfWb\WpfWb\bin\Debug\WpfWb.pdb
+C:\Documents and Settings\Administrator\桌面\C#\WpfWb\WpfWb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C#\WpfWb\WpfWb\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Administrator\桌面\C#\WpfWb\WpfWb\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Administrator\桌面\C#\WpfWb\WpfWb\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Administrator\桌面\C#\WpfWb\WpfWb\obj\x86\Debug\WpfWb_MarkupCompile.cache
+C:\Documents and Settings\Administrator\桌面\C#\WpfWb\WpfWb\obj\x86\Debug\WpfWb.g.resources
+C:\Documents and Settings\Administrator\桌面\C#\WpfWb\WpfWb\obj\x86\Debug\WpfWb.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C#\WpfWb\WpfWb\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\C#\WpfWb\WpfWb\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\C#\WpfWb\WpfWb\obj\x86\Debug\WpfWb.exe
+C:\Documents and Settings\Administrator\桌面\C#\WpfWb\WpfWb\obj\x86\Debug\WpfWb.pdb
+C:\Users\youzr\Desktop\C#\WpfWb\WpfWb\obj\x86\Debug\WpfWb.exe
+C:\Users\youzr\Desktop\C#\WpfWb\WpfWb\obj\x86\Debug\WpfWb.pdb
+C:\Users\youzr\Desktop\C#\WpfWb\WpfWb\bin\Debug\WpfWb.exe
+C:\Users\youzr\Desktop\C#\WpfWb\WpfWb\bin\Debug\WpfWb.pdb
+C:\Users\youzr\Desktop\C#\WpfWb\WpfWb\obj\x86\Debug\MainWindow.baml
+C:\Users\youzr\Desktop\C#\WpfWb\WpfWb\obj\x86\Debug\MainWindow.g.cs
+C:\Users\youzr\Desktop\C#\WpfWb\WpfWb\obj\x86\Debug\App.g.cs
+C:\Users\youzr\Desktop\C#\WpfWb\WpfWb\obj\x86\Debug\WpfWb_MarkupCompile.cache
+C:\Users\youzr\Desktop\C#\WpfWb\WpfWb\obj\x86\Debug\WpfWb.g.resources
+C:\Users\youzr\Desktop\C#\WpfWb\WpfWb\obj\x86\Debug\WpfWb.Properties.Resources.resources
+C:\Users\youzr\Desktop\C#\WpfWb\WpfWb\obj\x86\Debug\WpfWb.csproj.GenerateResource.Cache
